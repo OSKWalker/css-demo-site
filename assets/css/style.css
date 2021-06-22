@@ -1,0 +1,28 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+header{
+    height: 100px;
+    width: 100%;
+    position: fixed;
+    border-bottom: 10px solid darkblue;
+    background-color: black;
+}
+
+body{
+    display:block
+}
+
+footer{
+    height: 100px;
+    width: 100%;
+    position: absolute;
+}
+
+.nav{
+    position:fixed;
+    text-align:right;
+    background-color:cadetblue;
+}
